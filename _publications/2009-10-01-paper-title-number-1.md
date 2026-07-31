@@ -1,14 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "No Two Snowflakes Are Alike: Studying eBPF Libraries' Performance, Fidelity and Resource Usage"
 collection: publications
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+category: conferences
+permalink: /publication/2025-ebpf25-snowflakes
+excerpt: "A comparative study of eBPF libraries, analyzing their performance, fidelity, and resource usage across representative workloads."
+date: 2025
+venue: "Workshop on eBPF and Kernel Extensions (eBPF '25), co-located with ACM SIGCOMM 2025"
+paperurl: "https://dl.acm.org/doi/10.1145/3748355.3748364"
+slidesurl: "https://dsr-haslab.github.io/assets/files/2025/snowflakes-ebpf25-cmachado-presentation.pdf"
+citation: 'Machado, C., Gião, B., Amaro, S., Matos, M., Paulo, J., & Esteves, T. (2025). &quot;No Two Snowflakes Are Alike: Studying eBPF Libraries&#39; Performance, Fidelity and Resource Usage.&quot; <i>Workshop on eBPF and Kernel Extensions (eBPF &#39;25)</i>.'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
