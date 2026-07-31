@@ -25,4 +25,4 @@ Since 2023, I have been a Research Assistant at **HASLab/INESC TEC**, contributi
 
 - **2025:** Presented *No Two Snowflakes Are Alike: Studying eBPF Libraries' Performance, Fidelity and Resource Usage* at **eBPF '25**, co-located with ACM SIGCOMM.
 
-Feel free to explore my publications, projects, and CV using the navigation bar above.
+Feel free to explore my publications and talks using the navigation bar above.
