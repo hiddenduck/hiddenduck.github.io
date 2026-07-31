@@ -23,7 +23,6 @@ Since 2023, I have been a Research Assistant at **HASLab/INESC TEC**, contributi
 
 ## News
 
-- **2026:** Poster abstract accepted at the **eBPF '26 Workshop**. The poster will be presented during the **SOSP 2026** poster session.
 - **2025:** Presented *No Two Snowflakes Are Alike: Studying eBPF Libraries' Performance, Fidelity and Resource Usage* at **eBPF '25**, co-located with ACM SIGCOMM.
 
 Feel free to explore my publications, projects, and CV using the navigation bar above.
